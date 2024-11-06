@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abhiw\\OneDrive\\Desktop\\Ima\\Techfix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F20FA2D2-2D8D-42C3-A2BB-B5B630019276}|Application\\Application.csproj|c:\\users\\abhiw\\onedrive\\desktop\\ima\\techfix\\application\\supplierdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F20FA2D2-2D8D-42C3-A2BB-B5B630019276}|Application\\Application.csproj|solutionrelative:application\\supplierdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567E1DD7-1BF4-4A45-A70A-21CF08FD16D4}|Techfix\\Techfix.csproj|C:\\Users\\abhiw\\OneDrive\\Desktop\\Ima\\Techfix\\techfix\\uservalidation.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567E1DD7-1BF4-4A45-A70A-21CF08FD16D4}|Techfix\\Techfix.csproj|solutionrelative:techfix\\uservalidation.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567E1DD7-1BF4-4A45-A70A-21CF08FD16D4}|Techfix\\Techfix.csproj|C:\\Users\\abhiw\\OneDrive\\Desktop\\Ima\\Techfix\\techfix\\supplierservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567E1DD7-1BF4-4A45-A70A-21CF08FD16D4}|Techfix\\Techfix.csproj|solutionrelative:techfix\\supplierservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567E1DD7-1BF4-4A45-A70A-21CF08FD16D4}|Techfix\\Techfix.csproj|C:\\Users\\abhiw\\OneDrive\\Desktop\\Ima\\Techfix\\techfix\\adminservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567E1DD7-1BF4-4A45-A70A-21CF08FD16D4}|Techfix\\Techfix.csproj|solutionrelative:techfix\\adminservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20FA2D2-2D8D-42C3-A2BB-B5B630019276}|Application\\Application.csproj|C:\\Users\\abhiw\\OneDrive\\Desktop\\Ima\\Techfix\\application\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F20FA2D2-2D8D-42C3-A2BB-B5B630019276}|Application\\Application.csproj|solutionrelative:application\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 89,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SupplierDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\abhiw\\OneDrive\\Desktop\\Ima\\Techfix\\Application\\SupplierDashboard.aspx",
+              "RelativeDocumentMoniker": "Application\\SupplierDashboard.aspx",
+              "ToolTip": "C:\\Users\\abhiw\\OneDrive\\Desktop\\Ima\\Techfix\\Application\\SupplierDashboard.aspx",
+              "RelativeToolTip": "Application\\SupplierDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-30T06:34:16.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserValidation.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\abhiw\\OneDrive\\Desktop\\Ima\\Techfix\\Techfix\\UserValidation.asmx.cs",
+              "RelativeDocumentMoniker": "Techfix\\UserValidation.asmx.cs",
+              "ToolTip": "C:\\Users\\abhiw\\OneDrive\\Desktop\\Ima\\Techfix\\Techfix\\UserValidation.asmx.cs",
+              "RelativeToolTip": "Techfix\\UserValidation.asmx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:34:03.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupplierService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\abhiw\\OneDrive\\Desktop\\Ima\\Techfix\\Techfix\\SupplierService.asmx.cs",
+              "RelativeDocumentMoniker": "Techfix\\SupplierService.asmx.cs",
+              "ToolTip": "C:\\Users\\abhiw\\OneDrive\\Desktop\\Ima\\Techfix\\Techfix\\SupplierService.asmx.cs",
+              "RelativeToolTip": "Techfix\\SupplierService.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:33:54.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\abhiw\\OneDrive\\Desktop\\Ima\\Techfix\\Techfix\\AdminService.asmx.cs",
+              "RelativeDocumentMoniker": "Techfix\\AdminService.asmx.cs",
+              "ToolTip": "C:\\Users\\abhiw\\OneDrive\\Desktop\\Ima\\Techfix\\Techfix\\AdminService.asmx.cs",
+              "RelativeToolTip": "Techfix\\AdminService.asmx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:33:43.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.aspx",
+              "DocumentMoniker": "C:\\Users\\abhiw\\OneDrive\\Desktop\\Ima\\Techfix\\Application\\LoginForm.aspx",
+              "RelativeDocumentMoniker": "Application\\LoginForm.aspx",
+              "ToolTip": "C:\\Users\\abhiw\\OneDrive\\Desktop\\Ima\\Techfix\\Application\\LoginForm.aspx",
+              "RelativeToolTip": "Application\\LoginForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-29T13:36:58.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+﻿body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f7fc;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.dashboard-container {
+    max-width: 900px; 
+    margin: 20px auto;
+    padding: 15px; 
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px; 
+}
+
+h1 {
+    text-align: center;
+    color: #4b2e2e;
+    font-size: 2em; 
+    margin-bottom: 15px;
+}
+
+.section h3 {
+    color: #000;
+    font-size: 1.3em; 
+    border-bottom: 2px solid #000; 
+    padding-bottom: 8px;
+}
+
+input, .button {
+    width: 100%;
+    padding: 8px; 
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    font-size: 0.95em;
+    outline: none;
+    transition: border-color 0.3s ease-in-out;
+}
+
+    input:focus, .button:hover {
+        border-color: #4b2e2e;
+    }
+
+.button {
+    background-color: #4b2e2e;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 1em;
+    text-align: center;
+}
+
+    .button:hover {
+        background-color: #2c1a1a;
+    }
+
+.GridView {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 15px;
+}
+
+    .GridView th {
+        background-color: #000;
+        color: white;
+        padding: 8px; 
+        text-align: left;
+    }
+
+    .GridView td {
+        padding: 8px;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .GridView tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    .GridView tr:hover {
+        background-color: #f1f1f1;
+    }
+
+.section {
+    margin-bottom: 20px; 
+    padding: 15px; 
+    background-color: #f5e9e0;
+    border-left: 4px solid #4b2e2e; 
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#btnRefreshStock, #btnRefreshQuotations, #btnCreateQuotation, #btnUpdateQuotation, #btnDeleteQuotation {
+    background-color: #000;
+    color: white;
+    border: none;
+    padding: 8px 16px; 
+    cursor: pointer;
+    font-size: 0.95em;
+}
+
+    #btnRefreshStock:hover, #btnRefreshQuotations:hover, #btnCreateQuotation:hover, #btnUpdateQuotation:hover, #btnDeleteQuotation:hover {
+        background-color: #2c1a1a;
+    }
